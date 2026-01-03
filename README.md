@@ -148,8 +148,8 @@ This plugin is designed to be:
 
 ### Manual Installation
 1. Download or clone this repository
-2. Place it in:
-3. Enable the plugin from:
+2. Place it in: yourVault/.obsidian/plugin
+3. Enable the plugin from: obsidian settings community plugin
 
 ### Requirements
 - Obsidian `≥ 1.5.0`
